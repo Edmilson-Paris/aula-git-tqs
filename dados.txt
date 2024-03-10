@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Edmilson 
+-Profissão: Técnico iniciante em Reparo de dispositivos
+-Cidade:Maputo
+-O que faz nas horas vaga: Reparo dispositivos como computadoes, celulares.
+-Feedback sobre a disciplina Teste e Qualidade de Software:É uma boa disciplina pois ajuda de mais na área de mercado possibilitando a analise profunda de qualquer software presente em um dispositivo
+-Feedback sobre a metodologia das aulas da disciplina:É uma óptima metodologia, sem nenhuma crítica a dar.
+
+Obrigado!!!
+
+
